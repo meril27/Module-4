@@ -1,4 +1,4 @@
-## 1. Classes and Objects in Python: Calculate the Area of a Circle
+# 1. Classes and Objects in Python: Calculate the Area of a Circle
 ## 🎯 Aim:
 To write a Python program that calculates the area of a circle based on the radius provided by the user. This program uses a class named cse and a method mech to perform the calculation.
 
@@ -27,7 +27,7 @@ ci.mech(r)
 ## Result:
 Thus, the program that calculates the area of a circle based on the radius provided by the user is executed successfully.
 
-## 2. Dictionary Operations in Python: Merging Two Dictionaries
+# 2. Dictionary Operations in Python: Merging Two Dictionaries
 ## 🎯 Aim:
 To write a Python program that merges two dictionaries and combines their key-value pairs.
 
@@ -54,7 +54,7 @@ print(dict3)
 ## Result:
 Thus, the program that merges two dictionaries and combines their key-value pairs was executed successfully.
 
-## 3. Dictionary-Python Program to Sort a Dictionary by Keys and Values
+# 3. Dictionary-Python Program to Sort a Dictionary by Keys and Values
 This Python program demonstrates how to sort a dictionary:
 
 Alphabetically by keys
@@ -92,7 +92,7 @@ for i in l:
 ## Result:
 Thus, the program that sorts a dictionary's Keys and Values in alphabetical order was executed successfully.
 
-## 4. Exception Handling in Python: Avoiding Index Errors
+# 4. Exception Handling in Python: Avoiding Index Errors
 ## 🎯 Aim:
 To write a Python program that handles an IndexError when trying to access an element beyond the available range of a list.
 
@@ -116,7 +116,7 @@ except:
 ## Result:
 Thus, the program that handles an IndexError when trying to access an element beyond the available range of a list was executed successfully.
 
-## 5. File Handling in Python: Count Lines Not Starting with 'T'
+# 5. File Handling in Python: Count Lines Not Starting with 'T'
 ## 🎯 Aim:
 To write a Python program that counts the number of lines in a text file story.txt that do not start with the alphabet 'T'.
 
