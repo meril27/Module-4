@@ -137,7 +137,8 @@ with open("story.txt", "r") as file:
 print("Sum :", count)
 ```
 ## Output:
-![Uploading image.png…]()
+<img width="395" height="167" alt="image" src="https://github.com/user-attachments/assets/bc7a1014-ba93-4c7d-b838-415f029a92bd" />
+
 
 ## Result:
 Thus, the program that counts the number of lines in a text file story.txt that do not start with the alphabet 'T' was executed successfully.
